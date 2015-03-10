@@ -1,10 +1,10 @@
-RenameBranchDemo
-================
+Rename Branch In Git (Demo)
+===========================
 
-What?
------
+What is it?
+-----------
 
-This is a test repository that I can use to test and/or demo my shell script
+It's a test repository that I can use to test and/or demo my shell script
 that, renames a git branch. Play with it all you want. That's what I'll be 
 doing. :) Just be courteous and don't mess with the master branch.
 
