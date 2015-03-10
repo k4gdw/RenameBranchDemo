@@ -13,8 +13,8 @@ function Usage {
 	echo "***********************************************************"
 	echo "* USAGE:                                                  *"
 	echo "***********************************************************"
-	echo "* 	renameBranch.sh <oldName> <newName> <remote>        *"
-	echo "*		renameBranch.sh <null> (show this text)             *"
+	echo "*		renameGitBranch.sh <oldName> <newName> <remote>     *"
+	echo "*		renameGitBranch.sh <null> (show this text)          *"
 	echo "***********************************************************"
 }
 function Error {
